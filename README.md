@@ -1,2 +1,4 @@
 # ArmYourself
-The files for the Hackaday ArmYourself Project
+This is an ongoing project that will shorten time delivery time, lower costs, ensure safety and e-nable people worldwide with limited access to useful, repairable and well fitting prosthetic arms and hands. There is a three way chasm that creates friction to medically under served children both locally and internationally. This gap exists between what is medically available, what is affordable and what is maintainable. Arm Yourself is a bridge over these troughs of disillusionment. It will provide unique components to meet the needs of a widely variable audience of arms.
+
+We kicked off this project last summer with www.cone-o-matic.com. This summer we will be pushing it further. The next steps are to complete a calibrated cuff and hinge to match the socket. We will tie into the Fusion 360 API's to clean and prepare the files for 3D printing. Lastly, we will scale the current iteration of Skip Meese's Gripper Hand and build the U/I to tie them all together.
